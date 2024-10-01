@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 3px;
+}
+#titulo{
+   display: flex;
+   list-style: none;
+}
+#titulo li a{
+    align-items: center;
+ margin: 5px;
+ padding: 35px;
+}
+#titulo{
+    text-decoration: none;
+
+}
+#paCova{
+    padding-left: -100px ;
+    margin-right: 70px;
+    border-radius: 100%;
+}
+#cabeza{
+    heigh;
+}
