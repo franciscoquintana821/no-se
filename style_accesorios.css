@@ -1,0 +1,27 @@
+h1{
+    align-items: center;
+    background-color: peru;
+    padding-left: 43%;
+}
+ul img{
+    height: 200px;
+    align-items: center;
+    margin-left: 8%;
+    padding-left: 55px;
+}
+h2{
+    align-items: center;
+    padding-left: 43%;
+}
+#a{
+   padding-right: 0%;
+}
+.a{
+    border: 2px solid black;
+    padding-left: 0px;}
+#a{
+    margin-left: 250px;
+}
+#e{
+    margin-left: 350px;
+}
