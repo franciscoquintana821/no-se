@@ -1,0 +1,42 @@
+header{
+    border-bottom: 1px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 25px;
+    margin-bottom: 10px;
+    background-color: peru;
+}
+#titulo li a{
+   list-style: none;
+   text-decoration: none;
+ margin: 5px;
+ padding: 35px;
+
+}
+#paCova{
+    margin-right: 70px;
+    border-radius: 100%;
+}
+div{
+    align-items: center;
+}
+ul, li, a{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    background-color: peru;
+}
+h1{
+    display: flex;
+    align-items: center;
+    padding-left: 450px;
+}
+section{
+    display: flex;
+}
+
+

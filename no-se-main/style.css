@@ -1,0 +1,107 @@
+header{
+    border-bottom: 1px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: peru;
+}
+#titulo li a{
+   list-style: none;
+   text-decoration: none;
+ margin: 5px;
+ padding: 35px;
+
+}
+#paCova{
+    margin-right: 70px;
+    border-radius: 100%;
+}
+div{
+    align-items: center;
+}
+ul, li, a{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 10px;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    background-color: peru;
+}
+h1{
+    display: flex;
+    align-items: center;
+    padding-left: 350px;
+}
+section{
+    display: flex;
+}
+#pie{
+    text-align: center;  
+    padding: 10px;  
+    background-color: #f1f1f1; /* Color de fondo opcional */  
+    position: relative; /* Asegura que se posicione de forma estándar */  
+
+}
+#paCova2{
+    height: 150px; /* Cambia este valor según tus necesidades */  
+    width: 150px;  /* Cambia este valor según tus necesidades */  
+}
+h2{
+    display: flex;
+    align-items: center;
+    background-color: peru;
+    padding-left: 560px;
+}
+.cosas{
+    width: 250px;
+    margin: 25px;
+    padding-left: 20px;
+}
+button{
+    padding: 15px;
+    margin-left: 110px;
+    align-items: center;
+    margin-right: 50px;
+}
+button {
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    background-image: linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
+    border-radius: 30px;
+    border: 1px solid #8F9092;
+    transition: all 0.2s ease;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: #606060;
+    text-shadow: 0 1px #fff;
+  }
+  
+  button:hover {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 3px 3px #CECFD1;
+  }
+  
+  button:active {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #aaa;
+  }
+  
+  button:focus {
+    box-shadow: 0 4px 3px 1px #FCFCFC, 0 6px 8px #D6D7D9, 0 -4px 4px #CECFD1, 0 -6px 4px #FEFEFE, inset 0 0 5px 3px #999, inset 0 0 30px #aaa;
+  }
+
+
+
+
+
+
+
+
